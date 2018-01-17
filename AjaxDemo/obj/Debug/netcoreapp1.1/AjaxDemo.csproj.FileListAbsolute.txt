@@ -4,7 +4,7 @@
 /Users/Guest/Projects/AjaxDemo/AjaxDemo/bin/Debug/netcoreapp1.1/AjaxDemo.dll
 /Users/Guest/Projects/AjaxDemo/AjaxDemo/bin/Debug/netcoreapp1.1/AjaxDemo.pdb
 /Users/Guest/Projects/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.csprojResolveAssemblyReference.cache
-/Users/Guest/Projects/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.csproj.CoreCompileInputs.cache
 /Users/Guest/Projects/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.AssemblyInfo.cs
 /Users/Guest/Projects/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.dll
 /Users/Guest/Projects/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.pdb
+/Users/Guest/Projects/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.csproj.CoreCompileInputs.cache
